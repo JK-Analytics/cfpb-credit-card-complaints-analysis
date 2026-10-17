@@ -60,8 +60,8 @@ This is a place to investigate, not a conclusion. A low relief rate doesn't prov
 ## Files
 
 - `cfpb_complaints_analysis.sql`: every query, in order, with comments
-- - `cfpb_relief_rate_workbook.xlsx`: summary, issue comparison, card issuer focus, and my decision log
+- `cfpb_relief_rate_workbook.xlsx`: summary, issue comparison, card issuer focus, and my decision log
 
 ---
 
-**Kingsley** | JK Analytics | [www.linkedin.com/in/john-kingsley-00334418b]
+**Kingsley** | JK Analytics | [LinkedIn](https://www.linkedin.com/in/john-kingsley-00334418b)
